@@ -1,6 +1,8 @@
 # inde
 {"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Dighvijay tv  is a private channel of India.","sourceCam":["https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"DIGHVIJAY TV"},
 
+{"descriptionCam":"Dheeran tv is a private channel of India.","sourceCam":["https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"DHEERAN TV"},
+
 {"descriptionCam":"Eagle One News tv  is a private channel of India.","sourceCam":["https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"EAGLE ONE NEWS"},
 
 {"descriptionCam":"ET NOW tv  is a private channel of India.","sourceCam":["https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"ET NOW TV"},
