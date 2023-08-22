@@ -1,47 +1,47 @@
 # inde
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Dighvijay tv  is a private channel of India.","sourceCam":["https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"DIGHVIJAY TV"},
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Dighvijay tv  is a private channel of India.","sourceCam":["https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjlf/dighvijay.jpeg","titleCam":"DIGHVIJAY TV"},
 
-{"descriptionCam":"Dheeran tv is a private channel of India.","sourceCam":["https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"DHEERAN TV"},
+{"descriptionCam":"Dheeran tv is a private channel of India.","sourceCam":["https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjhf/dheeran.jpeg","titleCam":"DHEERAN TV"},
 
 {"descriptionCam":"Eagle One News tv  is a private channel of India.","sourceCam":["https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"EAGLE ONE NEWS"},
 
-{"descriptionCam":"ET NOW tv  is a private channel of India.","sourceCam":["https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"ET NOW TV"},
+{"descriptionCam":"ET NOW tv is a private channel of India.","sourceCam":["https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"ET NOW TV"},
 
-{"descriptionCam":"ET Now Swadesh tv  is a private channel of India.","sourceCam":["https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"ET NOW SWADESH"},
+{"descriptionCam":"ET Now Swadesh tv  is a private channel of India.","sourceCam":["https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjdf/etnowswadesh.jpeg","titleCam":"ET NOW SWADESH"},
 
-{"descriptionCam":"First India News tv  is a private channel of India.","sourceCam":["https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"FIRST INDIA NEWS"},
+{"descriptionCam":"First India News tv  is a private channel of India.","sourceCam":["https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjZf/firstindianews.jpeg","titleCam":"FIRST INDIA NEWS"},
 
-{"descriptionCam":"GDNS Ludhiana tv  is a private channel of India.","sourceCam":["http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"GDNS LUDHIANA"},
+{"descriptionCam":"GDNS Ludhiana tv  is a private channel of India.","sourceCam":["http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjVf/gdnsludhiana.jpeg","titleCam":"GDNS LUDHIANA"},
 
-{"descriptionCam":"Good News tv  is a private channel of India.","sourceCam":["https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"GOOD NEWS TV"},
+{"descriptionCam":"Good News tv  is a private channel of India.","sourceCam":["https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjRf/goodnews.jpeg","titleCam":"GOOD NEWS TV"},
 
-{"descriptionCam":"Gosree vision tv  is a private channel of India.","sourceCam":["https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"GOSREE VISION"},
+{"descriptionCam":"Gosree vision tv  is a private channel of India.","sourceCam":["https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjNf/gosreevision.jpeg","titleCam":"GOSREE VISION"},
 
-{"descriptionCam":"Gulistan tv  is a private channel of India.","sourceCam":["https://livestream.jktvonline.com/hls/gul.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"GULISTAN TV"},
+{"descriptionCam":"Gulistan tv  is a private channel of India.","sourceCam":["https://livestream.jktvonline.com/hls/gul.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjBf/Gulistan.jpg","titleCam":"GULISTAN TV"},
 
-{"descriptionCam":"Harvest tv  is a private channel of India.","sourceCam":["https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"HARVEST TV"},
+{"descriptionCam":"Harvest tv  is a private channel of India.","sourceCam":["https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMTlf/harvest.jpeg","titleCam":"HARVEST TV"},
 
-{"descriptionCam":"Hindi Khabar tv  is a private channel of India.","sourceCam":["https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"HINDI KHABAR"},
+{"descriptionCam":"Hindi Khabar tv  is a private channel of India.","sourceCam":["https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMTRf/hindkhabar.png","titleCam":"HINDI KHABAR"},
 
 {"descriptionCam":"Hope Channel India tv  is a private channel of India.","sourceCam":["https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/video.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"HOPE CHANNEL INDIA"},
 
-{"descriptionCam":"Hornbill tv  is a private channel of India.","sourceCam":["http://172.104.191.216:1935/hornbilltv/hornbilltv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"HORNBILL TV"},
+{"descriptionCam":"Hornbill tv  is a private channel of India.","sourceCam":["http://172.104.191.216:1935/hornbilltv/hornbilltv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMTNf/hornbill.jpeg","titleCam":"HORNBILL TV"},
 
 {"descriptionCam":"Hulchul tv  is a private channel of India.","sourceCam":["http://cdn12.henico.net:8080/live/jbani/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"HULCHUL TV"},
 
-{"descriptionCam":"Hyder tv  is a private channel of India.","sourceCam":["https://cdn.live247stream.com/hyder/tv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"HYDER TV"},
+{"descriptionCam":"Hyder tv  is a private channel of India.","sourceCam":["https://cdn.live247stream.com/hyder/tv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMTBf/hyder.jpeg","titleCam":"HYDER TV"},
 
-{"descriptionCam":"IBC 24 tv  is a private channel of India.","sourceCam":["https://livetv.ibc24.in/livestream.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"IBC 24 TV"},
+{"descriptionCam":"IBC 24 tv  is a private channel of India.","sourceCam":["https://livetv.ibc24.in/livestream.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMDZf/ibc24.jpeg","titleCam":"IBC 24 TV"},
 
-{"descriptionCam":"Imayam tv  is a private channel of India.","sourceCam":["https://idvd.multitvsolution.com/idvo/imayamtv.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"IMAYAM TV"},
+{"descriptionCam":"Imayam tv  is a private channel of India.","sourceCam":["https://idvd.multitvsolution.com/idvo/imayamtv.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcxOTFf/imayam.jpeg","titleCam":"IMAYAM TV"},
 
-{"descriptionCam":"Janam tv  is a private channel of India.","sourceCam":["https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"JANAM TV"},
+{"descriptionCam":"Janam tv  is a private channel of India.","sourceCam":["https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMDVf/janams.jpeg","titleCam":"JANAM TV"},
 
-{"descriptionCam":"Janta tv  is a private channel of India.","sourceCam":["https://live.wmncdn.net/jantatv/live.stream/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"JANTA TV"},
+{"descriptionCam":"Janta tv  is a private channel of India.","sourceCam":["https://live.wmncdn.net/jantatv/live.stream/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMDNf/janta.png","titleCam":"JANTA TV"},
 
 {"descriptionCam":"Jeevan tv  is a private channel of India.","sourceCam":["https://yupplivefragcp5.yuppcdn.net/030523/smil:jeevan.smil/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"JEEVAN TV"},
 
-{"descriptionCam":"Jonack tv  is a private channel of India.","sourceCam":["https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"JONACK TV"},
+{"descriptionCam":"Jonack tv  is a private channel of India.","sourceCam":["https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcxOTNf/jonack.jpeg","titleCam":"JONACK TV"},
 
 {"descriptionCam":"News World India is India's Fastest Growing News channel known for its quality programs, authentic news, and reliable breaking news. News World India brings you 24/7 Live Streaming, Headlines, Bulletins, Talk Shows, Infotainment and much more. Watch minute by minute updates of current affairs and happenings from India and all around the world! Watch our current affairs and infotainment shows: Ek Dum Seedhi Baat With Harish Aswal Bharat@9 With Kavendra Chauhan Chaar ka Chakravyuh With Parul Tyagi Saat ki Baat With Kajol Narayan","sourceCam":["https://sbnews.livebox.co.in/newsworldindiahls/news.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODY1NDAxOThf/newsworldindia.jpg","titleCam":"NEWS WORLD INDIA TV"},
 
