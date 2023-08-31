@@ -23,7 +23,7 @@
 
 {"descriptionCam":"Hindi Khabar tv  is a private channel of India.","sourceCam":["https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMTRf/hindkhabar.png","titleCam":"HINDI KHABAR"},
 
-{"descriptionCam":"Hope Channel India tv  is a private channel of India.","sourceCam":["https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/video.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"HOPE CHANNEL INDIA"},
+{"descriptionCam":"Hope Channel India tv  is a private channel of India.","sourceCam":["https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/video.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI3MTkxOTFf/hopechannelindia.png","titleCam":"HOPE CHANNEL INDIA"},
 
 {"descriptionCam":"Hornbill tv  is a private channel of India.","sourceCam":["http://172.104.191.216:1935/hornbilltv/hornbilltv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMTNf/hornbill.jpeg","titleCam":"HORNBILL TV"},
 
@@ -39,7 +39,7 @@
 
 {"descriptionCam":"Janta tv  is a private channel of India.","sourceCam":["https://live.wmncdn.net/jantatv/live.stream/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMDNf/janta.png","titleCam":"JANTA TV"},
 
-{"descriptionCam":"Jeevan tv  is a private channel of India.","sourceCam":["https://yupplivefragcp5.yuppcdn.net/030523/smil:jeevan.smil/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODNf/star.jpg","titleCam":"JEEVAN TV"},
+{"descriptionCam":"Jeevan tv  is a private channel of India.","sourceCam":["https://yupplivefragcp5.yuppcdn.net/030523/smil:jeevan.smil/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI3MTkxNjlf/jeevan.jpeg","titleCam":"JEEVAN TV"},
 
 {"descriptionCam":"Jonack tv  is a private channel of India.","sourceCam":["https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcxOTNf/jonack.jpeg","titleCam":"JONACK TV"},
 
