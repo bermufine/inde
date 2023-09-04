@@ -77,11 +77,11 @@
 
 {"descriptionCam":"Zee Cinema TV is India's Fastest Growing News channel known for its quality programs, authentic news, and reliable breaking news. News World India brings you 24/7 Live Streaming, Headlines, Bulletins, Talk Shows, Infotainment and much more. Watch minute by minute updates of current affairs and happenings from India and all around the world! Watch our current affairs and infotainment shows: Ek Dum Seedhi Baat With Harish Aswal Bharat@9 With Kavendra Chauhan Chaar ka Chakravyuh With Parul Tyagi Saat ki Baat With Kajol Narayan","sourceCam":["http://103.12.122.22:5000/play/a05g/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MTc5NjJf/zeecine.jpg","titleCam":"ZEE CINEMA"},
 
-{"descriptionCam":"Color TV est une chaîne de télévision basée en Inde.","sourceCam":["http://103.12.122.22:5000/play/a0ge/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODRf/color.jpg","titleCam":"COLOR HD"},
+{"descriptionCam":"Color TV est une chaîne de télévision basée en Inde.","sourceCam":["http://103.12.122.22:5000/play/a0ge/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODRf/color.jpg","titleCam":"COLORHD"},
 
 {"descriptionCam":"Color Infinity TV est une chaîne de télévision basée en Inde.","sourceCam":["http://103.12.122.22:5000/play/a06g/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODczOTEwODRf/color.jpg","titleCam":"COLORINFINITY"},
 
-{"descriptionCam":"Sony TV est une chaîne de télévision d'information basée en Inde.","sourceCam":["http://103.12.122.22:5000/play/a06g/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTAzMTNf/sony.png","titleCam":"SONY MAX"},
+{"descriptionCam":"Sony TV est une chaîne de télévision d'information basée en Inde.","sourceCam":["http://103.12.122.22:5000/play/a046/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTAzMTNf/sony.png","titleCam":"SONY MAX"},
 
 {"descriptionCam":"Sony TV est une chaîne de télévision d'information basée en Inde.","sourceCam":["http://103.12.122.22:5000/play/a06r/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTAzMTNf/sony.png","titleCam":"SONY MAX 2"},
 
