@@ -1,5 +1,7 @@
 # inde
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Dighvijay tv  is a private channel of India.","sourceCam":["https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjlf/dighvijay.jpeg","titleCam":"DIGHVIJAY TV"},
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Bollywood tv  is a private channel of India.","sourceCam":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4550"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjlf/dighvijay.jpeg","titleCam":"BOLLYWOOD TV"},
+
+{"descriptionCam":"Dighvijay tv  is a private channel of India.","sourceCam":["https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjlf/dighvijay.jpeg","titleCam":"DIGHVIJAY TV"},
 
 {"descriptionCam":"Dheeran tv is a private channel of India.","sourceCam":["https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjhf/dheeran.jpeg","titleCam":"DHEERAN TV"},
 
