@@ -1,5 +1,7 @@
 # inde
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Bollywood tv  is a private channel of India.","sourceCam":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4550"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjlf/dighvijay.jpeg","titleCam":"BOLLYWOOD TV"},
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Zee TV is India's Fastest Growing News channel known for its quality programs, authentic news, and reliable breaking news. News World India brings you 24/7 Live Streaming, Headlines, Bulletins, Talk Shows, Infotainment and much more. Watch minute by minute updates of current affairs and happenings from India and all around the world! Watch our current affairs and infotainment shows: Ek Dum Seedhi Baat With Harish Aswal Bharat@9 With Kavendra Chauhan Chaar ka Chakravyuh With Parul Tyagi Saat ki Baat With Kajol Narayan","sourceCam":["http://170.254.18.107/ZEE/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MTc5NjJf/zeecine.jpg","titleCam":"ZEE TV"},
+
+{"descriptionCam":"Bollywood tv  is a private channel of India.","sourceCam":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4550"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjlf/dighvijay.jpeg","titleCam":"BOLLYWOOD TV"},
 
 {"descriptionCam":"Dighvijay tv  is a private channel of India.","sourceCam":["https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjlf/dighvijay.jpeg","titleCam":"DIGHVIJAY TV"},
 
