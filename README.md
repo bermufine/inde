@@ -5,7 +5,7 @@
 
 {"descriptionCam":"Bollywood tv  is a private channel of India.","sourceCam":["https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4550"],"subtitleCam":"ByChannel","thumbCam":"https://od.lk/s/M18yOTc1MDAwMDFf/Bollywood.png","titleCam":"BOLLYWOOD TV"},
 
-{"descriptionCam":"And HD tv  is a private channel of India.","sourceCam":["http://51.79.84.156:8082/AndTvHd/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTI0NzcyMjlf/dighvijay.jpeg","titleCam":"AND TV"},
+{"descriptionCam":"And HD tv  is a private channel of India.","sourceCam":["http://51.79.84.156:8082/AndTvHd/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTc1MDAxNTdf/andtv.jpg","titleCam":"AND TV"},
 
 {"descriptionCam":"Colors HD tv  is a private channel of India.","sourceCam":["http://51.79.84.156:8082/ColorsHd/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTc0OTk5OTlf/colorsHD.jpeg","titleCam":"COLORS HD"},
 
